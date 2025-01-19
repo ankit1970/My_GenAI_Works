@@ -1,5 +1,3 @@
-### Check this video : https://youtu.be/VvpuGpXOYrQ
-
 ### Environment setup:
     
     py -3.10 -m venv myvenv
@@ -14,12 +12,9 @@
     Get a Google API key: 
     Head to https://ai.google.dev/gemini-api/docs/api-key to generate a Google AI API key.
 
-
-
 ### To run question and answering app:
 
      streamlit run gemini_app_qa.py
-
 
 ###  To run language translator app:
 
